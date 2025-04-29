@@ -1,5 +1,5 @@
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-Tech Experts: Use detailed, technical language; focus on functionality and in-depth explanations.
+Tech Experts: Use detailed, technical language; focus on functionality and in-depth explanations
 Regular Folks: Simplify language, focus on benefits, and avoid jargon.
 ## 2. What are some strategies to tailor your content to different audience types?
 Use clear language for non-experts, with examples and analogies.
